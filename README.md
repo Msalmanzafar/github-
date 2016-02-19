@@ -7,7 +7,7 @@
 + Then create a file and commit it....
 + If you need branches then make sure atleast one commit available.
 
-#### Fore Users
+#### Fore Users:
 
 + Login your github account.
 + Then you see first page, and see your left hand which one collaborate you.
